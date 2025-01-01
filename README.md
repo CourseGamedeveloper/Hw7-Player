@@ -1,5 +1,5 @@
 ### Home Work 7:
-
+in this Home work learn how to move the player in 3D
 create game in 3D with player can:
 
 jump->click on space 
